@@ -1,0 +1,53 @@
+Presonal Details:
++91-8107922216
+Bangalore, KA
+atulyasingh2004@gmail.com
+Atulya Singh
+Software Engineer 
+GitHub: Major-shaw
+LinkedIn: atulyasingh
+
+SUMMARY
+Software Engineer with 3+ years of experience in designing robust backend systems and crafting scalable solutions. Passionate about developing high-quality products, I specialize in API design, Docker, and cloud computing. Dedicated to enhancing product performance and user experience.
+
+EXPERIENCE
+BlogVault Bengaluru, India
+Software Engineer May 2022 - Present
+• Staging (Feature Owner & Lead Developer)
+– Piloted the creation of a Dockerized and scalable staging environment, mirroring production, resulting in a 70% faster deployment cycle and 30% downtime reduction.
+– Spearheaded multithreaded staging processes, cutting build time by 50%.
+– Resolved critical race conditions to lower failure rates to 1%, improving system reliability by 25%.
+– Delivered sub-features including one-click site/database downloads, dynamic PHP config, and a streamlined merge process, used by 5,000+ users daily.
+• Site Reports (Feature Owner & System Designer)
+– Redesigned systems for PDF reports covering firewall, malware, backups, and vulnerabilities—reducing generation time by 60%.
+– Integrated performance metrics from Google Analytics, PageSpeed Insights, and uptime tools—boosting actionable insights by 35%.
+– Implemented email open/click tracking via Postman, enhancing agency reports and increasing reach by 15%.
+– Positioned feature as a product differentiator, increasing user engagement by 20% and monthly downloads by 40%.
+• Notifications System (Architect & Developer)
+– Designed and implemented an event-driven notifications system via the in-house AI-powered tool Amoeba, processing 100,000+ monthly notifications.
+– Enabled granular control by feature, level, and severity—improving delivery accuracy to 99%.
+– Built routing logic to direct alerts to individuals, Slack channels, and webhooks, reducing delivery latency by 40%.
+– Leveraged AI for code generation/testing, cutting dev time by 75% and lowering cost by 30%.
+• Apollo – Intelligent Marketing Dashboard (Project Director & Lead Developer)
+– Directed development of an internal dashboard aggregating insights from Google Search Console, Analytics, and PostHog.
+– Built a self-learning ranking algorithm that boosted engagement by 40% and improved campaign targeting by 25%.
+• API Development (Lead API Architect)
+– Built a robust headless API system with full documentation, serving 10,000+ users and reducing latency by 30%.
+– Integrated rate limiting and key-based auth to meet 100% security compliance.
+– Delivered modular endpoints for custom workflows, driving a 50% increase in developer adoption.
+• System & Services Alerting (Core Team Member)
+– Co-developed a Grafana-based alerting system to monitor 50+ services, reducing response times by 25%.
+– Created real-time dashboards that improved incident resolution efficiency by 20%.
+• SiteSpinner (Lead Developer)
+– Built an automated solution using Docker, Python, and React to spin up WordPress test sites—cutting setup time by 200% and generating 250+ sites/month.
+– Achieved full internal adoption, boosting QA throughput by 35%.
+
+SKILLS
+Programming Languages Ruby | Python | Java | Go | PHP | JavaScript | C++ | C
+Web Development Ruby on Rails | React | Node.js | MySQL | MongoDB | Redis | ClickHouse | Puppeteer | HTML | CSS
+Monitoring & Tools Elastic APM | Sentry | Netdata | Grafana | PostHog | Postman | Google Analytics | VS Code | Vi Editor
+Systems & DevOps GNU/Linux | Apache | Nginx | Docker | Kubernetes | Git
+
+EDUCATION
+The LNM Institute of Information & Technology, Jaipur Aug 2018 — May 2022
+Bachelor of Technology in Computer Science, CGPA: 8.05

@@ -1,0 +1,27 @@
+{
+  "name": "cover-letter-generator",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "formidable": "^2.1.2",
+    "next": "12.3.4",
+    "puppeteer": "^19.11.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5",
+    "@types/node": "^14.18.63",
+    "@types/react": "^17.0.2",
+    "@types/react-dom": "^17.0.2",
+    "@types/formidable": "^2.0.5",
+    "eslint": "^7.32.0",
+    "eslint-config-next": "12.3.4"
+  }
+}
